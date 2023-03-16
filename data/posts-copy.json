@@ -1,0 +1,122 @@
+[
+  {
+    "id": "81",
+    "userId": "8",
+    "timestamp": 1678994591493,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "71",
+    "userId": "7",
+    "timestamp": 1678994591483,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "61",
+    "userId": "6",
+    "timestamp": 1678994591491,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "41",
+    "userId": "4",
+    "timestamp": 1678994591492,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "11",
+    "userId": "1",
+    "timestamp": 1678994591593,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "42",
+    "userId": "4",
+    "timestamp": 1678994591693,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "31",
+    "userId": "3",
+    "timestamp": 1678997591493,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "51",
+    "userId": "5",
+    "timestamp": 1678994599493,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "72",
+    "userId": "7",
+    "timestamp": 1678994591473,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "62",
+    "userId": "6",
+    "timestamp": 1678994591453,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "82",
+    "userId": "8",
+    "timestamp": 1678994491493,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  },
+  {
+    "id": "52",
+    "userId": "5",
+    "timestamp": 1678994591413,
+    "image": "http://localhost:8000/images/image0.jpg",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 1013,
+    "comments": 110
+  }
+]
