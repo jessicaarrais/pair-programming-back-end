@@ -6,7 +6,7 @@ const postsRoute = require("./routes/postsRoute");
 const usersRoute = require("./routes/usersRoute");
 const userRoute = require("./routes/userRoute");
 
-// const PORT = process.env.PORT;
+const PORT = process.env.PORT ?? 8000;
 
 app.use(cors());
 
@@ -22,4 +22,4 @@ app.use("/users", usersRoute);
 
 app.use("/user", userRoute);
 
-app.listen(8000, () => console.log(`Server running on port 8000`));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
