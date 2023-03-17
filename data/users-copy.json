@@ -2,49 +2,73 @@
   {
     "id": "1",
     "username": "Armance",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/1.png",
+    "bio": "New York",
+    "followers": "433",
+    "following": "390"
   },
   {
     "id": "2",
     "username": "Jessica",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/2.png",
+    "bio": "New York",
+    "followers": "544",
+    "following": "699"
   },
   {
     "id": "3",
     "username": "Lin",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/3.png",
+    "bio": "New York",
+    "followers": "1387",
+    "following": "1025"
   },
   {
     "id": "4",
     "username": "Marcus",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/4.png",
+    "bio": "New York",
+    "followers": "5,987,654",
+    "following": "890"
   },
   {
     "id": "5",
     "username": "Ben",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/5.png",
+    "bio": "New York",
+    "followers": "316",
+    "following": "390"
   },
   {
     "id": "6",
     "username": "Alexa",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/6.png",
+    "bio": "New York",
+    "followers": "877",
+    "following": "900"
   },
   {
     "id": "7",
     "username": "Xeniya",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/7.png",
+    "bio": "New York",
+    "followers": "567",
+    "following": "500"
   },
   {
     "id": "8",
     "username": "Z",
-    "avatar": "",
-    "bio": "New York"
+    "avatar": "http://localhost:8000/avatars/8.png",
+    "bio": "New York",
+    "followers": "431",
+    "following": "370"
+  },
+  {
+    "id": "9",
+    "username": "Patrick",
+    "avatar": "http://localhost:8000/avatars/9.png",
+    "bio": "New York",
+    "followers": "784",
+    "following": "391"
   }
 ]
