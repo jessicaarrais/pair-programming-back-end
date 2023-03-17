@@ -1,1 +1,132 @@
-[{"id":"81","userId":"8","timestamp":1678994591493,"image":"http://localhost:8000/images/81.png","location":"New York","description":"z","likes":234,"comments":5},{"id":"71","userId":"7","timestamp":1678994591483,"image":"http://localhost:8000/images/71.png","location":"New York","description":"Xeniya","likes":105,"comments":3},{"id":"61","userId":"6","timestamp":1678994591491,"image":"http://localhost:8000/images/61.png","location":"New York","description":"Having the best time in NYC!","likes":200,"comments":11},{"id":"41","userId":"4","timestamp":1678994591492,"image":"http://localhost:8000/images/41.png","location":"New York","description":"Marcus","likes":"1,330,240","comments":1500},{"id":"11","userId":"1","timestamp":1678994591593,"image":"http://localhost:8000/images/11.png","location":"Brooklyn, New York","description":"Best trio of all time ❤️","likes":120,"comments":4},{"id":"42","userId":"4","timestamp":1678994591693,"image":"http://localhost:8000/images/42.png","location":"New York","description":"Having the best time in NYC!","likes":"2,543,034","comments":923},{"id":"31","userId":"3","timestamp":1678997591493,"image":"http://localhost:8000/images/31.png","location":"New York","description":"Getting some tea","likes":1000,"comments":45},{"id":"32","userId":"3","timestamp":1678997591493,"image":"http://localhost:8000/images/32.png","location":"New York","description":"Getting some tea","likes":1200,"comments":35},{"id":"51","userId":"5","timestamp":1678994599493,"image":"http://localhost:8000/images/51.png","location":"New York","description":"Ben","likes":260,"comments":35},{"id":"21","userId":"2","timestamp":1678994591473,"image":"http://localhost:8000/images/21.png","location":"New York","description":"Pizza time","likes":505,"comments":800},{"id":"22","userId":"2","timestamp":1678994591473,"image":"http://localhost:8000/images/22.png","location":"New York","description":"moe time","likes":430,"comments":23},{"id":"62","userId":"6","timestamp":1678994591453,"image":"http://localhost:8000/images/62.png","location":"New York","description":"Alexa","likes":3000,"comments":110},{"id":"12","userId":"1","timestamp":1678994491493,"image":"http://localhost:8000/images/12.png","location":"New York","description":"Z","likes":343,"comments":29},{"id":"5bab926c-9149-47db-bfee-b46b1248bf70","userId":"9","timestamp":1679056816477,"image":"https://ca.slack-edge.com/T043CEKTYLB-U042Y8QDHTR-fe54155f302f-512","location":"NY","description":"nice","likes":0,"comments":0}]
+[
+  {
+    "id": "81",
+    "userId": "8",
+    "timestamp": 1678994591493,
+    "image": "http://localhost:8000/images/81.png",
+    "location": "New York",
+    "description": "z",
+    "likes": 234,
+    "comments": 5
+  },
+  {
+    "id": "71",
+    "userId": "7",
+    "timestamp": 1678994591483,
+    "image": "http://localhost:8000/images/71.png",
+    "location": "New York",
+    "description": "Xeniya",
+    "likes": 105,
+    "comments": 3
+  },
+  {
+    "id": "61",
+    "userId": "6",
+    "timestamp": 1678994591491,
+    "image": "http://localhost:8000/images/61.png",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": 200,
+    "comments": 11
+  },
+  {
+    "id": "41",
+    "userId": "4",
+    "timestamp": 1678994591492,
+    "image": "http://localhost:8000/images/41.png",
+    "location": "New York",
+    "description": "Marcus",
+    "likes": "1,330,240",
+    "comments": 1500
+  },
+  {
+    "id": "11",
+    "userId": "1",
+    "timestamp": 1678994591593,
+    "image": "http://localhost:8000/images/11.png",
+    "location": "Brooklyn, New York",
+    "description": "Best trio of all time ❤️",
+    "likes": 120,
+    "comments": 4
+  },
+  {
+    "id": "42",
+    "userId": "4",
+    "timestamp": 1678994591693,
+    "image": "http://localhost:8000/images/42.png",
+    "location": "New York",
+    "description": "Having the best time in NYC!",
+    "likes": "2,543,034",
+    "comments": 923
+  },
+  {
+    "id": "31",
+    "userId": "3",
+    "timestamp": 1678997591493,
+    "image": "http://localhost:8000/images/31.png",
+    "location": "New York",
+    "description": "Getting some tea",
+    "likes": 1000,
+    "comments": 45
+  },
+  {
+    "id": "32",
+    "userId": "3",
+    "timestamp": 1678997591493,
+    "image": "http://localhost:8000/images/32.png",
+    "location": "New York",
+    "description": "Getting some tea",
+    "likes": 1200,
+    "comments": 35
+  },
+  {
+    "id": "51",
+    "userId": "5",
+    "timestamp": 1678994599493,
+    "image": "http://localhost:8000/images/51.png",
+    "location": "New York",
+    "description": "Ben",
+    "likes": 260,
+    "comments": 35
+  },
+  {
+    "id": "21",
+    "userId": "2",
+    "timestamp": 1678994591473,
+    "image": "http://localhost:8000/images/21.png",
+    "location": "New York",
+    "description": "Pizza time",
+    "likes": 505,
+    "comments": 800
+  },
+  {
+    "id": "22",
+    "userId": "2",
+    "timestamp": 1678994591473,
+    "image": "http://localhost:8000/images/22.png",
+    "location": "New York",
+    "description": "moe time",
+    "likes": 430,
+    "comments": 23
+  },
+  {
+    "id": "62",
+    "userId": "6",
+    "timestamp": 1678994591453,
+    "image": "http://localhost:8000/images/62.png",
+    "location": "New York",
+    "description": "Alexa",
+    "likes": 3000,
+    "comments": 110
+  },
+  {
+    "id": "12",
+    "userId": "1",
+    "timestamp": 1678994491493,
+    "image": "http://localhost:8000/images/12.png",
+    "location": "New York",
+    "description": "Z",
+    "likes": 343,
+    "comments": 29
+  }
+]
