@@ -11,12 +11,14 @@ router.post("/:userId/post", (req, res) => {
   const user = readUsers().find((user) => user.id === userId);
   if (!user) res.status(404).send("404 Bad Request. User not found.");
 
+  console.log("image", image);
+
   const postId = uuidv4();
   const newPost = {
     id: postId,
     userId,
     timestamp: Date.now(),
-    image: `http://localhost:8000/images/${image}.jpg`,
+    image: `http://localhost:8000/images/${postId}.jpg`,
     location,
     description,
     likes: 0,
@@ -26,7 +28,7 @@ router.post("/:userId/post", (req, res) => {
   const posts = readPosts();
   posts.push(newPost);
 
-  saveImage(image, postId);
+  // saveImage(image, postId);
   writePosts(posts);
 
   res.status(201).json(posts);
