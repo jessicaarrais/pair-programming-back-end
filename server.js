@@ -5,7 +5,7 @@ require("dotenv").config();
 const postsRoute = require("./routes/postsRoute");
 const userRoute = require("./routes/userRoute");
 
-const PORT = process.env.PORT;
+// const PORT = process.env.PORT;
 
 app.use(cors());
 
@@ -17,4 +17,4 @@ app.use("/posts", postsRoute);
 
 app.use("/user", userRoute);
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(8000, () => console.log(`Server running on port 8000`));
