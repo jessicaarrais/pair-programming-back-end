@@ -46,5 +46,11 @@
     "username": "Z",
     "avatar": "http://localhost:8000/avatars/8.png",
     "bio": "New York"
+  },
+  {
+    "id": "9",
+    "username": "Patrick",
+    "avatar": "http://localhost:8000/avatars/9.png",
+    "bio": "New York"
   }
 ]
