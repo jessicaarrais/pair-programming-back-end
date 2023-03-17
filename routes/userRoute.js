@@ -18,7 +18,7 @@ router.post("/:userId/post", (req, res) => {
     id: postId,
     userId,
     timestamp: Date.now(),
-    image: `http://localhost:8000/images/${postId}.jpg`,
+    image: "https://ca.slack-edge.com/T043CEKTYLB-U042Y8QDHTR-fe54155f302f-512",
     location,
     description,
     likes: 0,
