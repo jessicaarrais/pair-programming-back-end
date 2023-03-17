@@ -3,7 +3,7 @@
     "id": "1",
     "username": "Armance",
     "avatar": "http://localhost:8000/avatars/1.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* Photography * Travel * Tiny Homes!",
     "location": "Manhattan, New York",
     "followers": "433",
     "following": "390"
@@ -12,7 +12,7 @@
     "id": "2",
     "username": "Jessica",
     "avatar": "http://localhost:8000/avatars/2.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* Having the best time in New York * Architecture Lover 🏠",
     "location": "Brooklyn, New York",
     "followers": "544",
     "following": "699"
@@ -21,7 +21,7 @@
     "id": "3",
     "username": "Lin",
     "avatar": "http://localhost:8000/avatars/3.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* All about travel * Cats on Instragam",
     "location": "Brooklyn, New York",
     "followers": "1387",
     "following": "1025"
@@ -30,7 +30,7 @@
     "id": "4",
     "username": "Marcus",
     "avatar": "http://localhost:8000/avatars/4.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* Acting * Drama * Push your limits",
     "location": "Brooklyn, New York",
     "followers": "5,987,654",
     "following": "890"
@@ -39,7 +39,7 @@
     "id": "5",
     "username": "Ben",
     "avatar": "http://localhost:8000/avatars/5.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* Nature * Vegan * Forro *",
     "location": "Manhattan, New York",
     "followers": "316",
     "following": "390"
@@ -48,7 +48,7 @@
     "id": "6",
     "username": "Alexa",
     "avatar": "http://localhost:8000/avatars/6.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "✨✨✨✨",
     "location": "Queens, New York",
     "followers": "877",
     "following": "900"
@@ -57,7 +57,7 @@
     "id": "7",
     "username": "Xeniya",
     "avatar": "http://localhost:8000/avatars/7.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "* Boldering * Coding * Challenges",
     "location": "Queens, New York",
     "followers": "567",
     "following": "500"
@@ -66,7 +66,7 @@
     "id": "8",
     "username": "Z",
     "avatar": "http://localhost:8000/avatars/8.png",
-    "bio": "* Tiny home inspiration & adventure . * Share your story @tinyhomesnew 🌲🏠 * Tiny Home Plans now available!",
+    "bio": "Ican Drink a Lot",
     "location": "Brooklyn, New York",
     "followers": "431",
     "following": "370"
@@ -75,7 +75,7 @@
     "id": "9",
     "username": "Patrick",
     "avatar": "http://localhost:8000/avatars/9.png",
-    "bio": "* Best teacher of all time! . * @brainstation",
+    "bio": "* Best teacher of all time! * @brainstation",
     "location": "Manhattan, New York",
     "followers": "784",
     "following": "391"

@@ -4,8 +4,8 @@
     "userId": "8",
     "timestamp": 1678994591493,
     "image": "http://localhost:8000/images/81.png",
-    "location": "New York",
-    "description": "z",
+    "location": "SoHo, New York",
+    "description": "My lovely friend Jess",
     "likes": 234,
     "comments": 5
   },
@@ -15,7 +15,7 @@
     "timestamp": 1678994591483,
     "image": "http://localhost:8000/images/71.png",
     "location": "New York",
-    "description": "Xeniya",
+    "description": "Night out",
     "likes": 105,
     "comments": 3
   },
@@ -25,7 +25,7 @@
     "timestamp": 1678994591491,
     "image": "http://localhost:8000/images/61.png",
     "location": "New York",
-    "description": "Having the best time in NYC!",
+    "description": "Just chilling",
     "likes": 200,
     "comments": 11
   },
@@ -35,7 +35,7 @@
     "timestamp": 1678994591492,
     "image": "http://localhost:8000/images/41.png",
     "location": "New York",
-    "description": "Marcus",
+    "description": "First weekend of BrainStation",
     "likes": "1,330,240",
     "comments": 1500
   },
@@ -55,7 +55,7 @@
     "timestamp": 1678994591693,
     "image": "http://localhost:8000/images/42.png",
     "location": "New York",
-    "description": "Having the best time in NYC!",
+    "description": "Law & Order: Special Victims Uni",
     "likes": "2,543,034",
     "comments": 923
   },
@@ -64,7 +64,7 @@
     "userId": "3",
     "timestamp": 1678997591493,
     "image": "http://localhost:8000/images/31.png",
-    "location": "New York",
+    "location": "Upper West Side, New York",
     "description": "Getting some tea",
     "likes": 1000,
     "comments": 45
@@ -74,8 +74,8 @@
     "userId": "3",
     "timestamp": 1678997591493,
     "image": "http://localhost:8000/images/32.png",
-    "location": "New York",
-    "description": "Getting some tea",
+    "location": "Brooklyn, New York",
+    "description": "Sushi ❤️",
     "likes": 1200,
     "comments": 35
   },
@@ -84,8 +84,8 @@
     "userId": "5",
     "timestamp": 1678994599493,
     "image": "http://localhost:8000/images/51.png",
-    "location": "New York",
-    "description": "Ben",
+    "location": "212, New York",
+    "description": "❤️❤️❤️❤️",
     "likes": 260,
     "comments": 35
   },
@@ -94,7 +94,7 @@
     "userId": "2",
     "timestamp": 1678994591473,
     "image": "http://localhost:8000/images/21.png",
-    "location": "New York",
+    "location": "Harlem, New York",
     "description": "Pizza time",
     "likes": 505,
     "comments": 800
@@ -105,7 +105,7 @@
     "timestamp": 1678994591473,
     "image": "http://localhost:8000/images/22.png",
     "location": "New York",
-    "description": "moe time",
+    "description": "Moe time",
     "likes": 430,
     "comments": 23
   },
@@ -114,8 +114,8 @@
     "userId": "6",
     "timestamp": 1678994591453,
     "image": "http://localhost:8000/images/62.png",
-    "location": "New York",
-    "description": "Alexa",
+    "location": "Out there",
+    "description": "❤️ Sunflowers ❤️",
     "likes": 3000,
     "comments": 110
   },
@@ -124,8 +124,8 @@
     "userId": "1",
     "timestamp": 1678994491493,
     "image": "http://localhost:8000/images/12.png",
-    "location": "New York",
-    "description": "Z",
+    "location": "BrainStation, New York",
+    "description": "Beauty Nap Time",
     "likes": 343,
     "comments": 29
   }
