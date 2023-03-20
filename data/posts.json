@@ -4,7 +4,7 @@
     "userId": "8",
     "timestamp": 1678994591493,
     "image": "http://localhost:8000/images/81.png",
-    "location": "SoHo, New York",
+    "location": "Toronto, Canada",
     "description": "My lovely friend Jess 💜",
     "likes": 234,
     "comments": 5
@@ -14,7 +14,7 @@
     "userId": "7",
     "timestamp": 1678994591483,
     "image": "http://localhost:8000/images/71.png",
-    "location": "New York",
+    "location": "Sao Paulo, Brasil",
     "description": "Night out 🌚",
     "likes": 105,
     "comments": 3
@@ -24,7 +24,7 @@
     "userId": "6",
     "timestamp": 1678994591491,
     "image": "http://localhost:8000/images/61.png",
-    "location": "New York",
+    "location": "New York, NY",
     "description": "Just chilling 🍺",
     "likes": 200,
     "comments": 11
@@ -34,7 +34,7 @@
     "userId": "4",
     "timestamp": 1678994591492,
     "image": "http://localhost:8000/images/41.png",
-    "location": "SoHo, New York",
+    "location": "Miami, Florida",
     "description": "First weekend at BrainStation 📚🧑🏻‍💻",
     "likes": "1,330,240",
     "comments": 1500
@@ -44,8 +44,8 @@
     "userId": "1",
     "timestamp": 1678994591593,
     "image": "http://localhost:8000/images/11.png",
-    "location": "Brooklyn, New York",
-    "description": "Best trio of all time ❤️🥰🥰",
+    "location": "Berlin, Germany",
+    "description": "Amazing time in Berlin",
     "likes": 120,
     "comments": 4
   },
@@ -54,8 +54,8 @@
     "userId": "4",
     "timestamp": 1678994591693,
     "image": "http://localhost:8000/images/42.png",
-    "location": "Brooklyn, New York",
-    "description": " 🚨 Law & Order: Special Victims Uni => check out the last episode! 🚑",
+    "location": "Miami, Florida",
+    "description": "Beach time",
     "likes": "2,543,034",
     "comments": 923
   },
@@ -64,8 +64,8 @@
     "userId": "3",
     "timestamp": 1678997591493,
     "image": "http://localhost:8000/images/31.png",
-    "location": "Upper West Side, New York",
-    "description": "Getting some tea as always ✨💫",
+    "location": "Mexico City, Mexico",
+    "description": " ✨💫",
     "likes": 1000,
     "comments": 45
   },
@@ -74,8 +74,8 @@
     "userId": "3",
     "timestamp": 1678997591493,
     "image": "http://localhost:8000/images/32.png",
-    "location": "Brooklyn, New York",
-    "description": "Baby Sushi 🐱😻",
+    "location": "Tulum, Mexico",
+    "description": "😻",
     "likes": 1200,
     "comments": 35
   },
@@ -84,8 +84,8 @@
     "userId": "5",
     "timestamp": 1678994599493,
     "image": "http://localhost:8000/images/51.png",
-    "location": "212, New York",
-    "description": "much love 🧡🧡🧡",
+    "location": "Paris, France",
+    "description": "🧡🧡🧡",
     "likes": 260,
     "comments": 35
   },
@@ -94,8 +94,8 @@
     "userId": "2",
     "timestamp": 1678994591473,
     "image": "http://localhost:8000/images/21.png",
-    "location": "Harlem, New York",
-    "description": "Pizza time 🍕🍕",
+    "location": "Mumbai, India",
+    "description": "🍕",
     "likes": 505,
     "comments": 800
   },
@@ -104,8 +104,8 @@
     "userId": "2",
     "timestamp": 1678994591473,
     "image": "http://localhost:8000/images/22.png",
-    "location": "SoHo, New York",
-    "description": "Drinks with Moe 🍷 ",
+    "location": "Mumbai, India",
+    "description": " 🍷 ",
     "likes": 430,
     "comments": 23
   },
@@ -114,7 +114,7 @@
     "userId": "6",
     "timestamp": 1678994591453,
     "image": "http://localhost:8000/images/62.png",
-    "location": "Out there",
+    "location": "Brooklyn, New York",
     "description": "🌻",
     "likes": 3000,
     "comments": 110
@@ -124,8 +124,8 @@
     "userId": "1",
     "timestamp": 1678994491493,
     "image": "http://localhost:8000/images/12.png",
-    "location": "BrainStation, New York",
-    "description": "Beauty Nap Time 😴💤",
+    "location": "Berlin, Germany",
+    "description": "💤",
     "likes": 343,
     "comments": 29
   }

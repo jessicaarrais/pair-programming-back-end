@@ -1,82 +1,73 @@
 [
   {
     "id": "1",
-    "username": "Armance",
+    "username": "jane_65",
     "avatar": "http://localhost:8000/avatars/1.png",
-    "bio": "* Photography * Travel * Tiny Homes!",
-    "location": "Manhattan, New York",
+    "bio": "Berlin, Germany",
     "followers": "433",
     "following": "390"
   },
   {
     "id": "2",
-    "username": "Jessica",
+    "username": "esther_warren54_",
     "avatar": "http://localhost:8000/avatars/2.png",
-    "bio": "* Having the best time in New York * Architecture Lover 🏠",
-    "location": "Brooklyn, New York",
+    "bio": "Mumbai, India",
     "followers": "544",
     "following": "699"
   },
   {
     "id": "3",
-    "username": "Lin",
+    "username": "leslie-alexander",
     "avatar": "http://localhost:8000/avatars/3.png",
-    "bio": "* All about travel * Cats on Instragam",
-    "location": "Brooklyn, New York",
+    "bio": "Mexico City, Mexico",
     "followers": "1387",
     "following": "1025"
   },
   {
     "id": "4",
-    "username": "Marcus",
+    "username": "robertOfficial",
     "avatar": "http://localhost:8000/avatars/4.png",
-    "bio": "* Acting * Drama * Push your limits",
-    "location": "Brooklyn, New York",
+    "bio": "Miami, Florida",
     "followers": "5,987,654",
     "following": "890"
   },
   {
     "id": "5",
-    "username": "Ben",
+    "username": "jacobJones34",
     "avatar": "http://localhost:8000/avatars/5.png",
-    "bio": "* Nature * Vegan * Forro *",
-    "location": "Manhattan, New York",
+    "bio": "Paris, France",
     "followers": "316",
     "following": "390"
   },
   {
     "id": "6",
-    "username": "Alexa",
+    "username": "ralphedwards-21",
     "avatar": "http://localhost:8000/avatars/6.png",
-    "bio": "✨✨✨✨",
-    "location": "Queens, New York",
+    "bio": "New York, NY",
     "followers": "877",
     "following": "900"
   },
   {
     "id": "7",
-    "username": "Xeniya",
+    "username": "dianne_russell",
     "avatar": "http://localhost:8000/avatars/7.png",
-    "bio": "* Boldering * Coding * Challenges",
-    "location": "Queens, New York",
+    "bio": "Sao Paulo, Brasil",
     "followers": "567",
     "following": "500"
   },
   {
     "id": "8",
-    "username": "Z",
+    "username": "jerome215",
     "avatar": "http://localhost:8000/avatars/8.png",
-    "bio": "Ican Drink a Lot",
-    "location": "Brooklyn, New York",
+    "bio": "Toronto, Canada",
     "followers": "431",
     "following": "370"
   },
   {
     "id": "9",
-    "username": "Patrick",
+    "username": "john_arraison",
     "avatar": "http://localhost:8000/avatars/9.png",
-    "bio": "* Best teacher of all time! * @brainstation",
-    "location": "Manhattan, New York",
+    "bio": "London, UK",
     "followers": "784",
     "following": "391"
   }
